@@ -179,7 +179,7 @@ color: var(--blanco);
   padding: 3rem 4rem;
   background-color: var(--oscuro);
   animation: desplazamiento .5s ease-in-out; */
-}
+
 
 .hamburguesa:hover{
   cursor: pointer;
