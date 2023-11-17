@@ -1,8 +1,8 @@
 :root{
-  --verde:#C09788;
+  --verde:rgb(192,151,136);
   --blanco:#FFFFFF;
-  --rojo:#562E2E;
-  --oscuro:#562E2E;
+  --rojo:rgb(86,46,46);
+  --oscuro:rgb(86,46,46);
   --titulos:'roboto',cursive;
   --parrafos:'Mulish', sans-serif;
 }
@@ -195,7 +195,7 @@ color: var(--blanco);
 
 /*video*/
 .contenido-header{
-  background-image: url('../assets/img/fondo.jpg');
+  background-image: url('../assets/img/portada.jpg');
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
